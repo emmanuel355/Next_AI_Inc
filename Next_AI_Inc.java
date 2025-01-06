@@ -38,18 +38,18 @@ public class Next_AI_Inc{
         
     }
     public static void main (String [] args){
-      Next_AI_Inc   subeko = new Next_AI_Inc();
+      Next_AI_Inc   likambo = new Next_AI_Inc();
         
         System.out.println();
-        subeko.weeklypay(30000,51);
-        System.out.println();
-        
-        System.out.println();
-        subeko.weeklypay(20000,40);
+        likambo.weeklypay(30000,51);
         System.out.println();
         
         System.out.println();
-        subeko.weeklypay(30000, 96);
+        likambo.weeklypay(20000,40);
+        System.out.println();
+        
+        System.out.println();
+        likambo.weeklypay(30000, 96);
         
         
     }
